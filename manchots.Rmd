@@ -1,6 +1,6 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et  toute la spé data science"
+author: "MP Etienne et  toute la spé data science ainsi que votre serviteur Pierre-Alexandre QUITTET"
 date: "9/2/2023"
 output: html_document 
 ---
