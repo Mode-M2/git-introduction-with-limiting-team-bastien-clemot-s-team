@@ -35,5 +35,17 @@ install.packages('palmerpenguins)
 
 L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
 
+```{r}
+plot(rnorm(100))
+```
+
+```{r}
+
+file.show(paste(getwd(),"/RIB.pdf",sep=""), title="some title")
+
+```
+
+
+
 blabla
 ![La vie est pleine d'amour <3](coeur.jpg)
